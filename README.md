@@ -56,6 +56,8 @@ Created 5 Security Groups and assigned users based on department:
 
 **Key concepts applied:** Security vs Microsoft 365 group types, assigned membership, department-based access control, least-privilege principles.
 
+![Groups List](screenshots/GroupsCreated.png)
+
 ---
 
 ## Step 3 — Role Assignments
@@ -67,6 +69,9 @@ Assigned built-in Entra ID roles to simulate real enterprise access tiers:
 | Sarah Lee | Security Reader | Finance requires read-only access to security reports |
 
 **Key concepts applied:** Role-Based Access Control (RBAC), least-privilege access, separation of duties.
+
+![John Doe Admin Role](screenshots/AdministratorCreated.png)
+![Sarah Lee Security Reader](screenshots/SecurityReaderCreated.png)
 
 ---
 
@@ -82,6 +87,8 @@ Simulated a complete employee departure following enterprise offboarding policy:
 | 5 | Deleted account after retention period | Permanent removal after 30-day data recovery window |
 
 **Key concepts applied:** Session revocation, account lifecycle management, 30-day soft delete retention policy, data recovery window awareness.
+
+![David Brown Deleted](screenshots/DeletedUsers.png)
 
 ---
 
