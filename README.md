@@ -39,6 +39,8 @@ Created 5 simulated users representing a real company structure:
 
 **Key concepts applied:** User Principal Name (UPN) format, user type assignment, department and job title metadata.
 
+![Users List](screenshots/UsersCreated.png)
+
 ---
 
 ## Step 2 — Security Group Management
